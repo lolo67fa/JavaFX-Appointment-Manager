@@ -1,0 +1,17 @@
+# Maven
+target/
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+nbproject/
+nbactions.xml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
